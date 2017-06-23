@@ -1,6 +1,6 @@
 BSD 2-Clause License
 
-Copyright (c) 2017, Markus K
+Copyright (c) 2017, M. Kuech and L. Oettershagen
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
